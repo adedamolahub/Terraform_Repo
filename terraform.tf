@@ -5,7 +5,7 @@ terraform {
     organization = "DevOps_engineer4cloud"
 
     workspaces {
-      name = "Terraform_Repo_Workspace1"
+      name = "Terraform_Repo"
     }
   }
 
